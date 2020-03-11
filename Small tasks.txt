@@ -1,0 +1,9 @@
+1: Skriv de lige tal fra 1 til 100
+2: Skriv kvadrattal (x^2) for x fra 1 til  25
+3: Skriv "FizzBuzz"
+    - Tag alle tal fra 1 til 100
+    - Hvis tallete dividerer med 3 skriv Fizz$
+    - Hvis tallete dividerer med 5 skriv FizzBuzz
+    - Hvis tallet dividere med både 3 og 5 skriv FizzBuzz
+    - Ellers, bare skriv tallet selv
+4: Skriv alle primtal mellem 1 og 100
