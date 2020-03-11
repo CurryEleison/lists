@@ -12,3 +12,15 @@
 
 
 5: Skriv et program der tager et år some input (f.eks. 2016 eler 1998) of finder ud af om det er et skudår. Regler for skudår er her: https://www.regneregler.dk/skudaar-ordbog
+
+Lister:
+Man kan lave en liste tilfældige tal med:
+from random import randint
+list = [randint(0,101) for i in range(10)]
+
+Man kan også bare selv skrive en liste
+
+6: Skriv et program der giver det største tal fra en liste tilbage
+7: Lav det om så der er en funktion der giver det største tal tilbage
+8: Sriv et program der finder ud af om listen er ens forfra og bagfra
+9: Skriv et program der fletter to lister. Så [1, 2, 3] og [7,8,9] bliver til [1,7,2,8,3,9]
