@@ -1,5 +1,6 @@
 1: Skriv de lige tal fra 1 til 100
 2: Skriv kvadrattal (x^2) for x fra 1 til  25
+
 3: Skriv "FizzBuzz"
     - Tag alle tal fra 1 til 100
     - Hvis tallete dividerer med 3 skriv Fizz$
