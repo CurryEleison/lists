@@ -7,3 +7,7 @@
     - Hvis tallet dividere med både 3 og 5 skriv FizzBuzz
     - Ellers, bare skriv tallet selv
 4: Skriv alle primtal mellem 1 og 100
+
+
+
+5: Skriv et program der tager et år some input (f.eks. 2016 eler 1998) of finder ud af om det er et skudår. Regler for skudår er her: https://www.regneregler.dk/skudaar-ordbog
