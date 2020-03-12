@@ -26,3 +26,8 @@ Man kan også bare selv skrive en liste
 9: Sriv et program der finder ud af om listen er ens forfra og bagfra
     F. eks. [1,4,7,4,1] og [9,0,4,4,0,9] er ens forfra og bagfra. Men [1,2,3] er ikke
 10: Skriv et program der fletter to lister. Så [1, 2, 3] og [7,8,9] bliver til [1,7,2,8,3,9]
+
+Flere opgaver:
+- Meld dig ind på Exercism: https://exercism.io/ . Prøv at få nogle af 
+    opgaverne fra Python til at virke: https://exercism.io/my/tracks/python
+
