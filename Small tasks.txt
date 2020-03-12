@@ -31,3 +31,4 @@ Flere opgaver:
 - Meld dig ind på Exercism: https://exercism.io/ . Prøv at få nogle af 
     opgaverne fra Python til at virke: https://exercism.io/my/tracks/python
 
+okay og tak fordi at du lærte mig så meget på den korte tid :)
