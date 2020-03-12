@@ -22,5 +22,7 @@ Man kan også bare selv skrive en liste
 
 6: Skriv et program der giver det største tal fra en liste tilbage
 7: Lav det om så der er en funktion der giver det største tal tilbage
-8: Sriv et program der finder ud af om listen er ens forfra og bagfra
-9: Skriv et program der fletter to lister. Så [1, 2, 3] og [7,8,9] bliver til [1,7,2,8,3,9]
+8: Skriv en funtion, der lægger tallene i en liste sammen: F. eks [1,3,5] giver 9 og [3,9,4] giver 16
+9: Sriv et program der finder ud af om listen er ens forfra og bagfra
+    F. eks. [1,4,7,4,1] og [9,0,4,4,0,9] er ens forfra og bagfra. Men [1,2,3] er ikke
+10: Skriv et program der fletter to lister. Så [1, 2, 3] og [7,8,9] bliver til [1,7,2,8,3,9]
